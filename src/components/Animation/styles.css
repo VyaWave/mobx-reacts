@@ -1,0 +1,14 @@
+#tsparticles {
+  height: 100%;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background: linear-gradient(
+    135deg,
+    rgb(96, 108, 136) 0%,
+    rgb(63, 76, 107) 100%
+  );
+}

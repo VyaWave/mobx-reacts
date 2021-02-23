@@ -1,0 +1,12 @@
+{
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "cSpell.words": [
+    "tsparticles"
+  ],
+  "prettier.jsxBracketSameLine": true,
+  "prettier.semi": false,
+  "prettier.vueIndentScriptAndStyle": true,
+  "files.autoSave": "afterDelay",
+  "eslint.alwaysShowStatus": true
+}
